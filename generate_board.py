@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw, ImageFont
 from pathlib import Path
 from datetime import datetime, timezone
 
-CLUB_SLUG = "and-chess-for-all-1"
+CLUB_SLUG = "and-chess-for-all"
 OUTPUT_FILE = "acfa-welcome-board.png"
 DEFAULT_AVATAR = "https://www.chess.com/bundles/web/images/user-image.007dad08.svg"
 
